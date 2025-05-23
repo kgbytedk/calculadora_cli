@@ -21,4 +21,4 @@ git clone https://github.com/seu-usuario/calculadora-cli.git
 cd calculadora-cli
 ```
 
-![Print da calculadora](https://github.com/kgbytedk/calculadora-cli/blob/main/img/calculadora.png)
+![Print da calculadora](https://github.com/kgbytedk/calculadora_cli/blob/main/img/calculadora.png)
